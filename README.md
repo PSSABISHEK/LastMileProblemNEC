@@ -1,6 +1,6 @@
 # Last Mile Problem - Enhanced Efficiency
 
-This is a simple solution to improve the efficiency of the last mile problem and a way to help taxi drivers get better value out of their job.
+This is a simple solution to improve the efficiency of the last mile problem and a way to help auto and taxi drivers get better value out of their job.
 
 **Disclaimer:**
 
@@ -20,7 +20,7 @@ Local auto rikshaws or taxi services can be used to deliver the goods (in their 
 
 The project revolves around a mobile application/webapp which is integrated with taxi companies or local auto rikshaws who think they aren't getting their worth. 
 
-This app aims to improve their income without disturbing their schedule much. 
+This app aims to improve their income without disturbing the current system and their schedule much. 
 
 #### what the project aims to do:
 
