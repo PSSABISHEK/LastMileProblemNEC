@@ -6,8 +6,6 @@ This is a simple solution to improve the efficiency of the last mile problem and
 
 This project has been made to improve quality of life while solving real world problems. This does not support or encourage pirating activities.
 
-
-
 ## The problem
 
 The last part of any supply chain is usually the least efficient. Statistically, it contributes to up to 28% of the total cost. That is a huge number and therein lies the problem, less efficiency. 
