@@ -14,7 +14,7 @@ The last part of any supply chain is usually the least efficient. Statistically,
 
 ## A simple solution?
 
-Instead of having delivery executives, local auto rikshaws or taxi services can be used to deliver the goods (in their free time) to nearby places and they get paid for the things delivered.
+Local auto rikshaws or taxi services can be used to deliver the goods (in their free time) along with the usual delivery executives to nearby places and get paid for the same.
 
 ## About the project
 
